@@ -56,7 +56,7 @@ double subtraction() {
  * Edit variables and values as needed
  * @return z
  */
-double multiplation() {
+double multiplication() {
     int x = 20;
     int y = 10;
     int z = x * y;
@@ -102,7 +102,7 @@ int main() {
 
     //CALL THE MULTIPLICATION METHOD
     std::cout << "The value of 20 * 10 is ";
-    std::cout << multiplation();
+    std::cout << multiplication();
     std::cout << "\n\n";
 
     //CALL THE DIVISION METHOD
